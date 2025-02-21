@@ -7,7 +7,9 @@ font-family:'Roboto', sans-serif;}
 .header {color:#4d5ae5;
 border-bottom: 1px solid #e7e9fc;}
 
-.contacts {font-style:normal;}
+.contacts {font-style:normal;
+display: flex;
+gap: 40px;}
 
 .navigation {font-family:'Raleway', sans-serif;
 font-weight:700;
@@ -78,6 +80,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
+padding: 24px 0;
 }
 .nav-item:hover {color:#404bbf;
 }
@@ -138,7 +141,8 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color:#4d5ae5;}
+color:#4d5ae5;
+margin-right: 76px}
 
 
 span {color: #f4f4fd;}
@@ -178,3 +182,7 @@ div {display: flex;}
 .container-class {width: 1158px;
      margin: 0;
     padding: 0 15px;}
+
+.nav-menu {display: flex;
+        gap: 40px;
+    }
