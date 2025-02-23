@@ -195,13 +195,15 @@ border-radius: 0px 0px 4px 4px;}
 
 .feautures {font-size: 16px;
 color: #434455;}
+
+
 .portfolio4 {font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;}
 
-.colorstudio {color:#f4f4fd}
+.colorstudio {color:#f4f4fd;}
 div {display: flex;}
 
 .container-class {width: 1158px;
@@ -211,7 +213,10 @@ div {display: flex;}
 .nav-menu {display: flex;
         gap: 40px;
     }
+
+
 .two {padding: 120px 0;}
+
 
 .menutwo {display:flex;
 gap:24px;}
@@ -222,8 +227,12 @@ gap:24px;}
 text-align: center;
 margin-bottom: 8px;
 }
+
+
 .section-four {padding: 120px 0 120px 0;
 }
+
+
 .menufour {display: flex;
 flex-wrap: wrap;
 column-gap: 24px;
@@ -231,10 +240,14 @@ row-gap: 48px;
 }
 .lifour {width:calc((100% - 48px) / 3);
 }
+
+
 .nameteam2 {padding: 32px 16px;
 border: 1px solid #e7e9fc;
 border-top: none;
 }
+
+
 .visually-hidden {position:absolute;
 width:1px;
 height: 1px;
@@ -248,4 +261,6 @@ overflow: hidden;}
 .container {margin: 0 auto;
 width: 1158px;
 padding: 0 15px;}
+
+
 img {display:block;}
