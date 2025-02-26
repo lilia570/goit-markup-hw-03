@@ -208,7 +208,7 @@ display: inline-block;}
 
 
 .container-class {width: 1158px;
-    display:flex;
+    
      margin: 0;
     padding: 0 15px;}
 
@@ -271,5 +271,5 @@ overflow: hidden;}
 width: 1158px;
 padding: 0 15px;}
 
-
+.div-class {display: flex;}
 img {display:block;}
