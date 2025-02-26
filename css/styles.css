@@ -203,7 +203,8 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;}
 
-.colorstudio {color:#f4f4fd;}
+.colorstudio {color:#f4f4fd;
+display: inline-block;}
 div {display: flex;}
 
 .container-class {width: 1158px;
