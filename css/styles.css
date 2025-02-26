@@ -208,6 +208,7 @@ display: inline-block;}
 
 
 .container-class {width: 1158px;
+    display:flex;
      margin: 0;
     padding: 0 15px;}
 
