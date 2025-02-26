@@ -234,7 +234,7 @@ margin-bottom: 8px;
 }
 
 
-.menufour {display:inline-block;
+.menufour {display:flex;
 flex-wrap: wrap;
 column-gap: 24px;
 row-gap: 48px;
